@@ -27,7 +27,9 @@ A proposta é incentivar práticas simples que possam ajudar na prevenção de g
 
 ## 📄 Cartilha
 
-A cartilha **Segurança Digital no Dia a Dia** está disponível gratuitamente neste repositório em formato PDF.
+A cartilha **Segurança Digital no Dia a Dia** está disponível gratuitamente para acesso e compartilhamento.
+
+### 👉 [Acessar a Cartilha Segurança Digital](./Cartilha-Seguranca-Digital.pdf)
 
 ## 👨‍💻 Autor
 
